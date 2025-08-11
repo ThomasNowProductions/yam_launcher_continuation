@@ -1,6 +1,5 @@
-# Notice
-I have stopped maintaining this project. 1.8 is the final release of the app. There is a fork that intends to continue the development: https://github.com/ThomasNowProductions/yam_launcher_continuation
-
+> [!NOTE]
+> Ottop stopped developing this launcher, thanks to him for the amazing groundwork! We'll continue supporting this project. If you made a issue on the main repo from Ottop, please make one here two. We'll only implement features asked for by our community.
 <p align="center">
 <img src="https://codeberg.org/ottoptj/yamlauncher/raw/branch/main/metadata/en-US/images/featureGraphic.png" width=100%/>
 </p>
@@ -24,24 +23,9 @@ Key features:
 
 ## Installation
 
-### F-Droid
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/en/packages/eu.ottop.yamlauncher)
-
-### IzzyOnDroid
-[<img src="https://github.com/user-attachments/assets/0e6a8084-f056-4db1-9ba3-58b4edb578d0"
-alt="Get it on IzzyOnDroid"
-height="55">](https://apt.izzysoft.de/fdroid/index/apk/eu.ottop.yamlauncher)
-
-### Google Play
-[<img src="https://github.com/user-attachments/assets/18e22711-eadc-4757-8b47-7588cfa9ab8d"
-    alt="Get it on Google Play"
-    height="55">](https://play.google.com/store/apps/details?id=eu.ottop.yamlauncher&pcampaignid=web_share)
-
 ### APK
 
-1. Download the [APK](https://codeberg.org/ottoptj/yamlauncher/releases).
+1. Download the APK under the releases tab.
 2. Enable the permission to install apps for your browser/files (app you are installing the launcher from).
 3. Install the launcher.
 
@@ -77,8 +61,6 @@ To fix (only if you want to enable the double tap to lock feature):
 
 ## Privacy
 
-[Privacy Policy](https://codeberg.org/ottoptj/yamlauncher/src/branch/main/PrivacyPolicy.md)
-
 No data leaves your device by default and no data is sent to the developer, ever. 
 
 Enabling weather integration will send the coordinates that are set for the weather to Open-Meteo and they may also store your IP address.
@@ -96,9 +78,3 @@ Enabling weather integration will send the coordinates that are set for the weat
 ### Accessibility Services
 
 You can optionally enable accessibility services for YAM Launcher if you choose to use the "Double Tap to Lock Screen" gesture. The accessibility services are exclusively used to lock the screen and are not used to collect any data.
-
-## Mirrors
-
-[Codeberg (primary)](https://codeberg.org/ottoptj/yamlauncher)
-
-[GitHub (secondary)](https://github.com/ottop/yam_launcher)
