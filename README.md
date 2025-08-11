@@ -1,5 +1,5 @@
 > [!NOTE]
-> Ottop stopped developing this launcher, thanks to him for the amazing groundwork! We'll continue supporting this project. If you made a issue on the main repo from Ottop, please make one here. We'll only implement features asked for by our community.
+> Ottop stopped developing this launcher. Thanks to him for the amazing groundwork! We'll continue supporting this project. If you made a issue on the main repo from Ottop, please make one here. We'll only implement features asked for by our community.
 <p align="center">
 <img src="https://codeberg.org/ottoptj/yamlauncher/raw/branch/main/metadata/en-US/images/featureGraphic.png" width=100%/>
 </p>
