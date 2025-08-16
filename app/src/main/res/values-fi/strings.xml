@@ -124,6 +124,7 @@
     <string name="contacts_menu">Yhteystiedot</string>
     <string name="permission_denied">Tarvittavat Luvat Kielletty</string>
     <string name="internet_search">Verkkohaku Nappi</string>
+    <string name="hide_app_drawer">Piilota Sovellusvalikko</string>
 
     <string name="context_menu_settings_title">Kontekstivalikon Asetukset</string>
     <string name="context_menu_settings_text">Kontekstimenu</string>

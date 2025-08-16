@@ -128,6 +128,7 @@
     <string name="contacts_menu">Menu contatti</string>
     <string name="permission_denied">Permesso negato</string>
     <string name="internet_search">Cerca nel web</string>
+    <string name="hide_app_drawer">Nascondi menu app</string>
 
     <string name="context_menu_settings_title">Impostazioni menu contestuale</string>
     <string name="context_menu_settings_text">Menu contestuale</string>

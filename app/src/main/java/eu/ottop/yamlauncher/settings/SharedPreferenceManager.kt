@@ -324,6 +324,10 @@ class SharedPreferenceManager(private val context: Context) {
         return preferences.getBoolean("webSearchEnabled", false) && isSearchEnabled() && !isAutoLaunchEnabled()
     }
 
+    fun isAppDrawerHidden(): Boolean {
+        return preferences.getBoolean("hideAppDrawer", false)
+    }
+
     // Hidden Apps
     fun setAppHidden(componentName: String, profile: Int, hidden: Boolean) {
         preferences.edit {

@@ -126,6 +126,7 @@
     <string name="contacts_menu">Kontaktmenü</string>
     <string name="permission_denied">Berechtigung verweigert</string>
     <string name="internet_search">Web-Suchfunktion</string>
+    <string name="hide_app_drawer">App-Menü ausblenden</string>
 
     <string name="context_menu_settings_title">Kontextmenü-Einstellungen</string>
     <string name="context_menu_settings_text">Kontextmenü</string>

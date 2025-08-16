@@ -127,6 +127,7 @@
     <string name="contacts_menu">Contacts Menu</string>
     <string name="permission_denied">Permission Denied</string>
     <string name="internet_search">Web Search Button</string>
+    <string name="hide_app_drawer">Hide App Drawer</string>
 
     <string name="context_menu_settings_title">Context Menu Settings</string>
     <string name="context_menu_settings_text">Context Menu</string>

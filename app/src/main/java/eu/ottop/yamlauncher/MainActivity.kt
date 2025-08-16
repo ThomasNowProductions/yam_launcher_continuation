@@ -615,6 +615,11 @@ class MainActivity : AppCompatActivity(), SharedPreferences.OnSharedPreferenceCh
     }
 
     private fun openAppMenu() {
+        // Check if app drawer is hidden
+        if (sharedPreferenceManager.isAppDrawerHidden()) {
+            return
+        }
+        
         appAdapter?.shortcutTextView = null
         contactAdapter?.shortcutTextView = null
         menuTitle.visibility = View.GONE
